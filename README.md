@@ -4,6 +4,8 @@
   <code><span style="color:#00ff99; font-family: 'Courier New', monospace; font-size: 2em;">r00tH3x</span></code>
 </h1><p align="center">
   <i><b><span style="color:#999; font-family: 'Courier New', monospace;">Gray Hat | Pentester | OSINT Operative | Network Intrusion Artist</span></b></i>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=r00tH3x&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
 </p>
 ---
 
@@ -41,6 +43,17 @@
 
 ---
 
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">Tech Stack</span>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
+</p>
+---
+
 <span style="color:#00ffff; font-family: 'Courier New', monospace;">latest drops</span>
 
 > curl -s https://github.com/r00tH3x | grep "tools"
@@ -55,6 +68,14 @@
 
 
 
+---
+
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">github stats</span>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=r00tH3x&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tH3x&layout=compact&theme=tokyonight" height="165">
+</p>
 ---
 
 <span style="color:#00ffff; font-family: 'Courier New', monospace;">contact</span>
