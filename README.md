@@ -1,20 +1,20 @@
 <p align="center">
   <img src="https://i.ibb.co.com/ZRqrtRcR/file-00000000b5f461f69fd05c23882efc7a-conversation-id-67fc6117-3a40-8010-ad29-643f1ca8e554-message-i.png" alt="r00tH3x Banner" width="100%"/>
 </p><h1 align="center">
-  <code><span style="color:#00ff99">r00tH3x</span></code>
+  <code><span style="color:#00ff99; font-family: 'Courier New', monospace; font-size: 2em;">r00tH3x</span></code>
 </h1><p align="center">
-  <i><b><span style="color:#999">Gray Hat | Pentester | OSINT Operative | Network Intrusion Artist</span></b></i>
+  <i><b><span style="color:#999; font-family: 'Courier New', monospace;">Gray Hat | Pentester | OSINT Operative | Network Intrusion Artist</span></b></i>
 </p>
 ---
 
-<span style="color:#00ffff">whoami</span>
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">whoami</span>
 
 > echo "Cybersecurity enthusiast // Toolsmith in Python & JS // Explorer of the darknet and protector of the clear net"
 
 
 ---
 
-<span style="color:#00ffff">skills</span>
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">skills</span>
 
 [+] Penetration Testing
 [+] OSINT Automation
@@ -25,7 +25,7 @@
 
 ---
 
-<span style="color:#00ffff">toolkit</span>
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">toolkit</span>
 
 ⚙️  Python-based CLI tools
 
@@ -41,7 +41,7 @@
 
 ---
 
-<span style="color:#00ffff">latest drops</span>
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">latest drops</span>
 
 > curl -s https://github.com/r00tH3x | grep "tools"
 
@@ -57,7 +57,7 @@
 
 ---
 
-<span style="color:#00ffff">contact</span>
+<span style="color:#00ffff; font-family: 'Courier New', monospace;">contact</span>
 
 > ping r00tH3x
 => Online via GitHub Issues or Pull Requests
@@ -67,6 +67,8 @@
 ---
 
 <p align="center">
-  <i><span style="color:#00ffcc">Code is my weapon. Silence is my cover. Digital chaos is my battlefield.</span></i><br/>
-  <b><span style="color:#ff66cc">#r00tH3x</span></b>
+  <i><span style="color:#00ffcc; font-family: 'Courier New', monospace; font-size: 1.1em;">
+    Code forged in silence. Tools built from chaos. Watch closely — I never attack twice the same way.
+  </span></i><br/>
+  <b><span style="color:#ff66cc; font-size: 1.2em; font-family: 'Courier New', monospace;">#r00tH3x</span></b>
 </p>
