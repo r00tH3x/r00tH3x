@@ -21,12 +21,12 @@
 </p>
 
 ---
-
+<!--
 ### 🎮 **ASCII Game Console**
 <p align="center">
   <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/r00tH3x_terminal.svg" alt="R00tH3x Animated Terminal"/>
 </p>
-
+-->
 ---
 
 ### 💡 **Skills & Arsenal**
