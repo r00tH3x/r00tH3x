@@ -9,66 +9,7 @@
 </p>
 ---
 
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">whoami</span>
 
-> echo "Cybersecurity enthusiast // Toolsmith in Python & JS // Explorer of the darknet and protector of the clear net"
-
-
----
-
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">skills</span>
-
-[+] Penetration Testing
-[+] OSINT Automation
-[+] Network Recon & Exploitation
-[+] Payload Crafting & Obfuscation
-[+] Ethical Gray Hat Hacking
-
-
----
-
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">toolkit</span>
-
-⚙️  Python-based CLI tools
-
-🕵️  JavaScript-based automation & scanners
-
-🧠  Custom-built exploit scripts
-
-🌐  Recon bots & data scrapers
-
-🔗  Network mapping utilities
-
-
-
----
-
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">Tech Stack</span>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px"/>
-</p>
----
-
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">latest drops</span>
-
-> curl -s https://github.com/r00tH3x | grep "tools"
-
-[x] 🔍 <code><b>osint-scan</b></code> — Real-time data digger
-
-[x] ⚔️ <code><b>net-invader</b></code> — Lightweight network attack framework
-
-[x] 🧠 <code><b>payload-master</b></code> — Smart payload generator
-
-[x] ⚙️ <code><b>js-recon</b></code> — Passive reconnaissance in JavaScript
-
-
-
----
 
 <span style="color:#00ffff; font-family: 'Courier New', monospace;">github stats</span>
 
@@ -77,13 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tH3x&layout=compact&theme=tokyonight" height="165">
 </p>
 ---
-
-<span style="color:#00ffff; font-family: 'Courier New', monospace;">contact</span>
-
-> ping r00tH3x
-=> Online via GitHub Issues or Pull Requests
-=> Offline? Try again from the shadows.
-
 
 ---
 
