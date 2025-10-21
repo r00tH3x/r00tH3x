@@ -23,29 +23,9 @@
 ---
 
 ### 🎮 **ASCII Game Console**
-> Jalankan perintah di bawah ini di terminal markdown animasi!  
-> (Simulasi interaktif via ASCII – cuma gaya, tapi keren 😎)
-
-```bash
-> boot sequence initializing...
-> loading neural-core [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%
-> establishing SSH tunnel to github.com/r00tH3x ...
-> connection secured ✓
-> running simulation...
-```
-
-```text
-┌───────────────────────────────┐
-│ Welcome to R00tH3x Terminal   │
-│ Type: help                    │
-│ Commands: code, hack, sleep   │
-└───────────────────────────────┘
-
-> code
-⚙️  Compiling... success!
-🧠  Intelligence module active.
-💀  Status: Never attack twice.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/r00tH3x_terminal.svg" alt="R00tH3x Animated Terminal"/>
+</p>
 
 ---
 
