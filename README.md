@@ -1,12 +1,5 @@
 <p align="center">
   <img src="https://i.ibb.co.com/ZRqrtRcR/file-00000000b5f461f69fd05c23882efc7a-conversation-id-67fc6117-3a40-8010-ad29-643f1ca8e554-message-i.png" alt="r00tH3x Banner" width="100%"/>
-</p><h1 align="center">
-  <code><span style="color:#00ff99; font-family: 'Courier New', monospace; font-size: 2em;">r00tH3x</span></code>
-</h1><p align="center">
-  <i><b><span style="color:#999; font-family: 'Courier New', monospace;">Gray Hat | Pentester | OSINT Operative | Network Intrusion Artist</span></b></i>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r00tH3x&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
 ---
 
 
