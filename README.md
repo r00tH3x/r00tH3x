@@ -57,8 +57,8 @@
 ### 🔗 **Connect with Me**
 <p align="center">
   <a href="https://github.com/r00tH3x" target="_blank"><img src="https://img.shields.io/badge/GitHub-r00tH3x-181717?style=flat-square&logo=github"></a>
-  <a href="https://t.me/r00tH3x" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://t.me/tes" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram"></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
