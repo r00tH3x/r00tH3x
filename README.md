@@ -1,83 +1,88 @@
-<!-- ========================================= -->
-<!--           IndieDev GitHub Profile         -->
-<!-- ========================================= -->
+# IndieDev  
+### Where Ideas Become Technology.
 
-<p align="center">
-  <img src="https://i.ibb.co/jvsPs2NH/d255e411-cbdf-4ad2-b837-99ffeadae776.png" alt="IndieDev Banner" width="100%"/>
-</p>
+IndieDev adalah perusahaan teknologi yang berfokus pada pengembangan perangkat lunak, keamanan siber, dan solusi digital modern. Kami membangun produk yang scalable, aman, dan berorientasi masa depan — mulai dari aplikasi mobile, platform backend, hingga sistem keamanan untuk perusahaan.
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&color=00FFFF&center=true&vCenter=true&lines=Building+Secure+Futures.;Engineering+Intelligent+Systems.;IndieDev+—+Crafting+Tomorrow's+Tech." />
-</h3>
+## 🚀 About the Company
+IndieDev hadir dengan misi menghadirkan teknologi yang mudah diakses, modern, dan memberikan dampak nyata.  
+Kami menggabungkan inovasi, keamanan, dan kreativitas untuk menciptakan ekosistem digital yang berkelanjutan.
+
+Fokus utama kami meliputi:
+- Software Development (Web, Mobile, Desktop)
+- Cybersecurity Solutions & Automation
+- Infrastructure Engineering & DevOps
+- Research & Development (AI/ML, Data, System Engineering)
 
 ---
 
-## 🏢 **About Me / IndieDev**
-**Founder • Software Engineer • Security Builder**
+## 🛠️ Core Technologies (Tech Ecosystem)
+IndieDev menggunakan teknologi modern yang digunakan startup global dan perusahaan skala besar:
 
-I create intelligent software, automation tools, and cybersecurity-driven solutions  
-with a focus on **efficiency, reliability, and real-world impact**.  
-Future goal: establishing **IndieDev** as a global tech company in software, AI, and security engineering.
+### **Backend & System Engineering**
+- Go, Rust, Python, Node.js  
+- PostgreSQL, Redis  
+- Nginx, Ubuntu Server  
 
----
+### **Frontend & Cross-Platform**
+- Flutter, React, Next.js  
+- TailwindCSS  
 
-## 🧩 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r00tH3x&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00tH3x&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+### **Infrastructure & DevOps**
+- Proxmox VE, Docker, LXC  
+- GitHub Actions (CI/CD)  
+- Cloud & Hybrid Deployment  
 
----
+### **Cybersecurity**
+- Suricata IDS/IPS  
+- Fail2Ban  
+- Network Recon Tools (Nmap, Wireshark)  
+- Security Automation Framework  
 
-## 🧰 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,flutter,dart,js,react,tailwind,html,css,git,github,docker,vscode&perline=7" />
-</p>
-
----
-
-## 🧬 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r00tH3x&theme=tokyo-night&hide_border=true&area=true" width="95%">
-</p>
+### **AI & R&D**
+- TensorFlow, PyTorch, ONNX Runtime  
+- Lightweight Edge ML (TFLite, On-device AI)
 
 ---
 
-## 🧭 **IndieDev Vision**
-> _"Technology should be powerful, secure, and accessible.  
-I build systems that help people think smarter, work faster, and stay safer."_  
+## 📂 Featured Projects
+> Daftar singkat project yang dikelola, diteliti, atau dikembangkan untuk internal maupun klien.
+
+- **IndieDev Core Platform** – Internal ecosystem & unified API.  
+- **Darkbyte Security Tools** – Automation toolkit for cybersecurity operations.  
+- **Mobile Apps Portfolio** – Flutter-based multi-platform applications.  
+- **Infrastructure Stack** – Highly optimized container-based environment.
+
+*(Bisa ditambah project bosku nanti.)*
 
 ---
 
-## 🕶️ **Signature Quote**
-<p align="center">
-  <i><span style="color:#00ffcc; font-family: 'Courier New', monospace; font-size: 1.1em;">
-    Precision in logic. Elegance in code.  
-    IndieDev — Engineering the future, one commit at a time.
-  </span></i><br/>
-  <b><span style="color:#ff66cc; font-size: 1.2em; font-family: 'Courier New', monospace;">#IndieDev</span></b>
-</p>
+## 📈 Engineering Metrics
+Kami mengutamakan kualitas melalui proses engineering yang terukur:
+
+- Codebase modular & scalable  
+- Automated testing & CI/CD  
+- Continuous security review  
+- High-performance backend architecture  
+- Modern UX/UI workflow (Figma + component-driven design)
 
 ---
 
-## 🔗 **Connect with Me**
-<p align="center">
-  <a href="https://github.com/r00tH3x" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-r00tH3x-181717?style=flat-square&logo=github">
-  </a>
-  <a href="https://t.me/tes" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat-square&logo=telegram">
-  </a>
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-  </a>
-</p>
+## 🧬 Culture & Principles
+- **Innovation First** — Menciptakan solusi, bukan mengikuti tren.  
+- **Secure by Design** — Keamanan menjadi fondasi setiap produk.  
+- **Engineering Discipline** — Clean code, maintainability, reliability.  
+- **Long-Term Thinking** — Membangun teknologi untuk masa depan.  
+- **User-Centered** — Teknologi yang menyelesaikan masalah nyata.  
 
 ---
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=20&duration=3000&color=FF66CC&center=true&vCenter=true&lines=⌬+System+Standby+...;⌬+Preparing+Next+Innovation+...;⌬+IndieDev+is+Just+Getting+Started+⚡" />
-</h4>
+## 📡 Connect
+- GitHub: https://github.com/r00tH3x  
+- Email: (isi nanti)  
+- Website (coming soon)
 
+---
+
+### © IndieDev — Where Ideas Become Technology.
