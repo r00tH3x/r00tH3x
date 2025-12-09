@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.ibb.co/jvsPs2NH/d255e411-cbdf-4ad2-b837-99ffeadae776.png" width="120" />
+</p>
+<h1 align="center">IndieDev</h1>
+<p align="center"><i>Where Ideas Become Technology.</i></p>
+
 # IndieDev  
 ### Where Ideas Become Technology.
 
