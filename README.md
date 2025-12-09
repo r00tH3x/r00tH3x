@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/ZRqrtRcR/file-00000000b5f461f69fd05c23882efc7a-conversation-id-67fc6117-3a40-8010-ad29-643f1ca8e554-message-i.png" alt="r00tH3x Banner" width="100%"/>
+  <img src="https://i.ibb.co/cKj9mdzS/d255e411-cbdf-4ad2-b837-99ffeadae776.png" alt="r00tH3x Banner" width="100%"/>
 </p>
 
 ---
