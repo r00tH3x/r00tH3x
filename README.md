@@ -4,9 +4,6 @@
 <h1 align="center">IndieDev</h1>
 <p align="center"><i>Where Ideas Become Technology.</i></p>
 
-# IndieDev  
-### Where Ideas Become Technology.
-
 IndieDev adalah perusahaan teknologi yang berfokus pada pengembangan perangkat lunak, keamanan siber, dan solusi digital modern. Kami membangun produk yang scalable, aman, dan berorientasi masa depan — mulai dari aplikasi mobile, platform backend, hingga sistem keamanan untuk perusahaan.
 
 ---
@@ -51,7 +48,7 @@ IndieDev menggunakan teknologi modern yang digunakan startup global dan perusaha
 - Lightweight Edge ML (TFLite, On-device AI)
 
 ---
-
+<!--
 ## 📂 Featured Projects
 > Daftar singkat project yang dikelola, diteliti, atau dikembangkan untuk internal maupun klien.
 
@@ -59,9 +56,7 @@ IndieDev menggunakan teknologi modern yang digunakan startup global dan perusaha
 - **Darkbyte Security Tools** – Automation toolkit for cybersecurity operations.  
 - **Mobile Apps Portfolio** – Flutter-based multi-platform applications.  
 - **Infrastructure Stack** – Highly optimized container-based environment.
-
-*(Bisa ditambah project bosku nanti.)*
-
+-->
 ---
 
 ## 📈 Engineering Metrics
@@ -86,8 +81,8 @@ Kami mengutamakan kualitas melalui proses engineering yang terukur:
 
 ## 📡 Connect
 - GitHub: https://github.com/r00tH3x  
-- Email: (isi nanti)  
-- Website (coming soon)
+- Email:   
+- Website
 
 ---
 
